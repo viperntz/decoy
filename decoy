@@ -1,7 +1,7 @@
 {
   "family_name": "Xtra Combo Flex",
   "family_code": "4a1acab0-da54-462c-84b1-25fd0efa9318",
-  "is_enterprise": true,
+  "is_enterprise": false,
   "migration_type": "NONE",
   "variant_code": "56369dfb-ab8b-4c03-a37b-a2cd395be6eb",
   "option_name": "Xtra Combo Flex M",
