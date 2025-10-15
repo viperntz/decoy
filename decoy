@@ -1,9 +1,9 @@
 {
-  "family_name": "Xtra Combo Mini",
-  "family_code": "ad176860-49d4-4bdd-9161-ab38dc6a631b",
+  "family_name": "Xtra Combo Flex",
+  "family_code": "4a1acab0-da54-462c-84b1-25fd0efa9318",
   "is_enterprise": true,
   "migration_type": "NONE",
-  "variant_code": "f1aa3f72-9c07-4ec6-a04d-fc018c233255",
-  "option_name": "XCM 7H 3GB",
-  "order": 1
+  "variant_code": "56369dfb-ab8b-4c03-a37b-a2cd395be6eb",
+  "option_name": "Xtra Combo Flex M",
+  "order": 3
 }
