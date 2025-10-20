@@ -1,9 +1,9 @@
 {
-  "family_name": "Kuota Bersama",
-  "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
-  "is_enterprise": false,
+  "family_name": "myPRIO X Unlimited",
+  "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+  "is_enterprise": true,
   "migration_type": "NONE",
-  "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
-  "option_name": "Kuota Bersama 50GB",
-  "order": 2
+  "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+  "option_name": "Prio Gold, 3 Bulan",
+  "order": 12
 }
