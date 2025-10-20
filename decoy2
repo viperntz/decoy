@@ -1,7 +1,7 @@
 {
   "family_name": "myPRIO X Unlimited",
   "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-  "is_enterprise": true,
+  "is_enterprise": false,
   "migration_type": "NONE",
   "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
   "option_name": "Prio Gold, 3 Bulan",
